@@ -11,13 +11,13 @@ My name is Vladyslav.
 
 I'm interested in DeFi, MEV Bots, Blockchain Security.
 
-🏢 As of now, I am working at LocalTrade.cc as a maintainer of [**DeFi Lab**](https://lab.localtrade.cc)
+🏢 As of now, I am working at Kanji.io, as Full Stack Web3 Developer
 
-👀 I am also working on my own MEV Arbitrage Bot, and considering myself an Ethereum Maximalist.
+## Past jobs:
+- Full Stack Web3 Engineer @ LocalTrade.cc (https://lab.localtrade.cc, https://localtrade.cc)
+- Full Stack Developer @ ParrotSec (https://parrotsec.org)
 
-🐧 One of my previous work experience was [**@ParrotSec**](https://parrotsec.org), a security oriented GNU/Linux distribution designed for pentesters, digital forensics and privacy/anonymity
-
-❤️  TypeScript, Golang, Solidity, Hardhat
+❤️  MEV, Foundry, TypeScript, Golang
 
 
 ### Analytics ⚙️

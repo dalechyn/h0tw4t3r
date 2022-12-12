@@ -9,16 +9,14 @@
 
 My name is Vladyslav.
 
-I'm interested in DeFi, MEV Bots, Blockchain Security.
+I'm interested in whole Web3 ecosystem, and always buzzling on ways to improve it.
 
 🏢 As of now, I am working at Kanji.io, as Full Stack Web3 Developer
 
 ## Past jobs:
 - Full Stack Web3 Engineer @ LocalTrade.cc (https://lab.localtrade.cc, https://localtrade.cc)
-- Full Stack Developer @ ParrotSec (https://parrotsec.org)
-
-❤️  MEV, Foundry, TypeScript, Golang
-
+- Full Stack Engineer @ ParrotSec (https://parrotsec.org)
+Engineer
 
 ### Analytics ⚙️
 <p align="left">

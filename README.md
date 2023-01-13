@@ -1,31 +1,22 @@
 [![telegram badge](https://img.shields.io/badge/%40h0tw4t3r-telegram-%23fff)](https://t.me/h0tw4t3r)
-[![blog badge](https://img.shields.io/badge/%40h0tw4t3r-blog-%23fff)](https://h0tw4t3r.github.io/)
 [![Twitter URL](https://img.shields.io/twitter/url?label=%400xh0tw4t3r&url=https%3A%2F%2Ftwitter.com%2F0xh0tw4t3r)](https://twitter.com/0xh0tw4t3r)
-[![Linkedin URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vladyslav-dalechyn)
 
+# Abstract
 
+👷🏻‍♂️ bulding web3 stuff, 🕵️‍♂️ your private on-chain detective, 🥷 a little of mev, 👨‍🏫 everyday learner
 
-# Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Motivation
 
-My name is Vladyslav.
+🎯 There will always be gaps in web3 to improve, until GPT4 fires all of us.
 
-I'm interested in whole Web3 ecosystem, and always buzzling on ways to improve it.
+# Specification
 
-🏢 As of now, I am working at Kanji.io, as Full Stack Web3 Developer
+🌇 Frontending the React, ⚙️ Backending the NestJS, 💣 Contracting the Foundry.
 
-## Past jobs:
-- Full Stack Web3 Engineer @ LocalTrade.cc (https://lab.localtrade.cc, https://localtrade.cc)
-- Full Stack Engineer @ ParrotSec (https://parrotsec.org)
-Engineer
+# Additional References
 
-### Analytics ⚙️
-<p align="left">
-<a href="https://github.com/h0tw4t3r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=h0tw4t3r&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tw4t3r&layout=compact&langs_count=8"/>
-</a>
-<a href="https://github.com/h0tw4t3r">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h0tw4t3r&theme=github"/>
-</a>
-</p>
+[⚙️ UniswapV2-UniswapV3 MEV Bot with custom fees support (Archived, Not Prod Ready)](https://github.com/h0tw4t3r/arbitrageur)
 
+[⚙️ ABI Signature Bruteforcer (get your optimized `0x00000000` function signature)](https://github.com/h0tw4t3r/abi-signature-bruteforcer)
+
+[🌇 Just a cool terminal matrix thing](https://github.com/h0tw4t3r/tmatrix)

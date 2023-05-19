@@ -7,7 +7,7 @@
 
 # Motivation
 
-🎯 There will always be gaps in web3 to improve, until GPT4 fires all of us.
+🎯 There will always be gaps in web3 to improve, until GPT5 fires all of us.
 
 # Specification
 
